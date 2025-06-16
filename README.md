@@ -1,6 +1,6 @@
 # Engenharia de Prompts de IA baseado no prompt da Claude 3.7 
 
-Este guia consolida as melhores práticas para a criação de prompts de sistema robustos e eficazes para modelos de linguagem avançados (LLMs). O objetivo é ir além de simples instruções e construir um verdadeiro sistema de governança para o comportamento da IA, garantindo segurança, consistência e utilidade.
+Este guia consolida algumas das melhores práticas para a criação de prompts de sistema robustos e eficazes para modelos de linguagem avançados (LLMs). Essas instruções foram tiradas a partir da interpretação do prompt da llm Claude 3.7. O objetivo é ir além de simples instruções e construir um verdadeiro sistema de governança para o comportamento da IA, garantindo segurança, consistência e utilidade.
 
 ---
 
